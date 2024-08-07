@@ -1,0 +1,5 @@
+{
+  "name": "System Idle Process (Win-chan)",
+  "description": "A visual measure of how much free CPU capacity\nyour system currently has, rather than an actual\nprocess taking up resources.\n\nThis process cannot be modified.",
+  "image": "win-chan.png"
+}

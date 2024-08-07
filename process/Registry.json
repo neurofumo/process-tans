@@ -1,0 +1,5 @@
+{
+  "name": "Registry (Win-chan)",
+  "description": "The Registry process is used to hold Software\nand User Registry hive data.\n\n\nThis process cannot be modified.",
+  "image": "win-chan.png"
+}

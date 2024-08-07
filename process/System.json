@@ -1,0 +1,5 @@
+{
+  "name": "System (Win-chan)",
+  "description": "The System process is a core Windows process\nthat is responsible for managing various system\nresources, such as the CPU, memory, and disk.\n\nThis process cannot be modified.",
+  "image": "win-chan.png"
+}
