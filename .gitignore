@@ -1,1 +1,4 @@
 *.lnk
+build/*
+dist/*
+processtans.spec
