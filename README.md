@@ -1,5 +1,5 @@
 # Process-tans
-Detailed docs coming soon...
+**This script only works for Windows!** Detailed docs coming soon...
 
 ## Folder map:
 - [process] contains json data about the processes.
