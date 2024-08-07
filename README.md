@@ -2,8 +2,8 @@
 Detailed docs coming soon...
 
 ## Folder map:
-[process] contains json data about the processes.
-\n[process/imgs] contains images.
+- [process] contains json data about the processes.
+- [process/imgs] contains images.
 
 ## Note:
 When clicking random unknown processes, the script generates image files with the process name.
